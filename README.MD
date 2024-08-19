@@ -1,6 +1,6 @@
 # Overview
 
-This Repository contains work done during the duration of the Google Summer of Code 2024, in collaboration with [Open Technologies Alliance - GFOSS](https://summerofcode.withgoogle.com/programs/2023/organizations/open-technologies-alliance-gfoss), [AUEB&#39;s NLP Group](http://nlp.cs.aueb.gr/), and helvia.ai
+This Repository contains work done during the duration of the Google Summer of Code 2024, in collaboration with [Open Technologies Alliance - GFOSS](https://summerofcode.withgoogle.com/programs/2023/organizations/open-technologies-alliance-gfoss), [AUEB&#39;s NLP Group](http://nlp.cs.aueb.gr/), and [helvia.ai](helvia.ai)
 
 The goal of this project is to develop and evaluate a model that can convert Greeklish text (Greek written using the Latin alphabet) into Greek text (using the Greek alphabet). The model should also be able to handle inputs that contain a mix of Greeklish and English words, ensuring that the English words remain unchanged in the output.
 
@@ -21,7 +21,6 @@ This pipeline consists of a benchmark to evaluate a model's ability to skip engl
 - The CER and WER scores of the whole predicted and ground truth text.
 - the CER and WER scores of the greek parts of the predicted and ground truth texts.
 - The CER and WER scores of the english parts of the predicted and ground trith texts.
-- 
 
 This is done to distinguish the model's ability of generating correct transliterations from its ability to keep the english text untransliterated.
 ** Note: ** As of now, the benchmark uses artificial data, but it will be extended to use real-world data from [insomnia.gr](insomnia.gr)
