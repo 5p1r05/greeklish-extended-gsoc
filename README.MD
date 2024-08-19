@@ -4,7 +4,7 @@ This Repository contains work done during the duration of the Google Summer of C
 
 The goal of this project is to develop and evaluate a model that can convert Greeklish text (Greek written using the Latin alphabet) into Greek text (using the Greek alphabet). The model should also be able to handle inputs that contain a mix of Greeklish and English words, ensuring that the English words remain unchanged in the output.
 
-The repository is consists of three parts:
+The repository consists of three parts:
 
 ### Insomnia Crawler
 
