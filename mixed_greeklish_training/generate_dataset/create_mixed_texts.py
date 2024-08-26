@@ -67,7 +67,7 @@ def substitute_words(greek_text_path, num_sentences):
     greek_english_data = {}
     greek_english_data['english'] = []
     
-
+    # Iterate over the sentences and subsitute the words
     for i in tqdm.tqdm(range(num_sentences)):
         words = greek_text[i].split()
         for j, word in enumerate(words):
@@ -83,20 +83,17 @@ def substitute_words(greek_text_path, num_sentences):
 
     return greek_english_data
 
-
-
 if __name__ == "__main__":
-    greek_text_path = "/home/sp1r05/Documents/gsoc/greeklish/data/artificial/greek/greek_europarl_training_100k.txt"
-    # english_text_path = "mixed_languages/data/europarl-v7.el-en.en"
+    greek_text_path = "mixed_greeklish_training/generate_dataset/data/greek_europarl_training_100k.txt"
 
-    num_sentences = 10
+    num_sentences = "all"
     random.seed(1234)
 
-    # Substitute words
+    # Substitute greek words with english ones
     greek_english_data = substitute_words(greek_text_path, num_sentences)
 
     # Create the greeklish version of the mixed text
     greek_english_data['greeklish'] = dataset_maker.convert_to_greeklish(greek_english_data['greek'])
 
-    with open(f"mixed_languages/data/greeklish_mixed_europarl_words_{num_sentences}.json", "w", encoding ='utf8') as f:
+    with open(f"mixed_greeklish_training/generate_dataset/data/greeklish_mixed_europarl_{num_sentences}.json", "w", encoding ='utf8') as f:
         json.dump(greek_english_data, f, ensure_ascii=False)

@@ -33,13 +33,24 @@ def dominant_language(text):
     
     all_count = greek_count + english_count
     
-    
+    # Check if the number of letters in greek is more than 20% of the total number of letters
     if greek_count > all_count * 0.2:
         return "greek"
     else:
         return "latin"
     
 def binary_search(arr, low, high, x):
+        
+        """
+        This function performs a binary search on the input array to find the index of the input element
+
+        Args:
+            arr (list): The input array
+            low (int): The lower bound of the search
+            high (int): The upper bound of the search
+            x (str): The element to search for
+        """
+        
  
         # Check base case
         if high >= low:

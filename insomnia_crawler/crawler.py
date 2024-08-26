@@ -191,8 +191,6 @@ class InsomniaCrawler:
 
 
 
-
-
 if __name__ == "__main__":
     crawler = InsomniaCrawler(data_folder="data_raw")
     crawler.crawl()

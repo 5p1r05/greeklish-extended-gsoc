@@ -79,17 +79,12 @@ class GreeklishDataset(Dataset):
 
 
 # import data
-with open("mixed_languages/data/greeklish_mixed_europarl_words_10.json", "r", encoding="utf-8") as file:
+with open("mixed_greeklish_training/generate_dataset/data/greeklish_mixed_europarl_all.json", "r", encoding="utf-8") as file:
     data = json.load(file)
 
 
 version = "small"
 
-# choose training/val datasets
-# random.seed(12345)
-# random.shuffle(train_x)
-# random.seed(12345)
-# random.shuffle(train_y)
 
 data_size = len(data['greeklish'])
 
@@ -208,16 +203,16 @@ for epoch in range(1, epochs + 1):
     print("val: {}".format(validation_losses))
 
     # Save the models (if val loss has improved)
-    # if not best_loss:
-    #     best_loss = epoch_val_loss
+    if not best_loss:
+        best_loss = epoch_val_loss
 
-    #     tokenizer.save_pretrained(save_path + "ByT5_{}_{}_samples".format(version, data_size))
-    #     model.save_pretrained(save_path + "ByT5_{}_{}_samples".format(version, data_size))
-    # elif (best_loss > epoch_val_loss):
-    #     best_loss = epoch_val_loss
+        tokenizer.save_pretrained("mixed_greeklish_training/results" + "ByT5_{}_{}_samples".format(version, data_size))
+        model.save_pretrained("mixed_greeklish_training/results" + "ByT5_{}_{}_samples".format(version, data_size))
+    elif (best_loss > epoch_val_loss):
+        best_loss = epoch_val_loss
 
-    #     tokenizer.save_pretrained(save_path + "ByT5_{}_{}_samples".format(version, data_size))
-    #     model.save_pretrained(save_path + "ByT5_{}_{}_samples".format(version, data_size))
+        tokenizer.save_pretrained("mixed_greeklish_training/results" + "ByT5_{}_{}_samples".format(version, data_size))
+        model.save_pretrained("mixed_greeklish_training/results" + "ByT5_{}_{}_samples".format(version, data_size))
 
     scheduler.step()
 
