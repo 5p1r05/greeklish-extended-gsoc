@@ -28,21 +28,19 @@ This is done to distinguish the model's ability of generating correct transliter
 
 # Details
 
-### Insomnia Crawler 
+### Insomnia Crawler
 
-As the Insomnia crawler scans through the forum posts, it takes each one and checks whether the majority of the letters are Greek or English. If they are Greek, it assumes that the text is in greek and skips the post, otherwise, it saves the post as it is probably written in English. This is the first preprocess step that is performed online, to save up space. 
-
+As the Insomnia crawler scans through the forum posts, it takes each one and checks whether the majority of the letters are Greek or English. If they are Greek, it assumes that the text is in greek and skips the post, otherwise, it saves the post as it is probably written in English. This is the first preprocess step that is performed online, to save up space.
 
 However, the texts need to be further preprocessed to remove noise, make sure that they are in Greeklish and producing annotations. This is done using the data_preprocessing module. This module performs the following steps:
 
 - It uses Regular Expressions to remove any html tags and urls
-- It uses the [facebook/fasttext-language-identification](https://huggingface.co/facebook/fasttext-language-identification) model to determine whether or not each post is written in the English language. If the post is not written in Εnglish, we assume that it is written in Greeklish. However, the text could be written in another language, but we consider it an edge case.  
-- It uses an English dictionary and scans through the Greeklish texts to locate the English words. Their locations are then added to the json file containing the text. 
+- It uses the [facebook/fasttext-language-identification](https://huggingface.co/facebook/fasttext-language-identification) model to determine whether or not each post is written in the English language. If the post is not written in Εnglish, we assume that it is written in Greeklish. However, the text could be written in another language, but we consider it an edge case.
+- It uses an English dictionary and scans through the Greeklish texts to locate the English words. Their locations are then added to the json file containing the text.
 
 The data crawled from insomnia.gr are accompanied by the dateime that they were posted, as well as thee topic of the forum they originate.
 
 ### Mixed Greeklish Training
-
 
 The training data were generated using the artificial data generation process described in [1]. This process begins with the ground truth Greek text, which is then transliterated into Greeklish following a set of fixed rules. Additionally, to help the model learn to ignore English words during transliteration, the pipeline translates every Greek word into English using the argostranslate library. As a result, the data used for training the model consists of the original Greek text, the corresponding Greeklish text, and the translated English text.
 
@@ -58,36 +56,37 @@ To use the insomnia crawler run.
 python3 -m insomnia_crawler.crawler
 ```
 
-This will start the crawler and it will save the crawled data in the *raw_data/* directory. 
+This will start the crawler and it will save the crawled data in the *raw_data/* directory.
 
 To run the preprocessing pipeline, run
 
 ```bash
 python3 -m insomnia_crawler.data_preprocessing --source source_folder/ --destination destination_folder/ --mode mode --english_words_path path/to/english/words/
 ```
+
 modes:
+
 - fix_encoding: convert from ascii to unicode
 - clean_text: perform the preprocessing steps described above
 - locate_english: use the provided English dictionary to locate the English words and annotate the data with their positions
-
 
 #### Mixed Greeklish Training
 
   To generate the training data run
 
-  ```bash
+```bash
 python3 mixed_greeklish_training.generate_dataset.create_mixed_texts
-  ```
-This script processes the *greek_europarl_training_100k.txt* file, located in the *mixed_greeklish_training/generate_dataset/data/* folder, which contains 100,000 sentences from the English Europarl dataset. The script performs the necessary steps to generate the English translation and Greeklish transliteration of these sentences. The results are then saved in a single JSON file within the same directory.
+```
 
+This script processes the *greek_europarl_training_100k.txt* file, located in the *mixed_greeklish_training/generate_dataset/data/* folder, which contains 100,000 sentences from the English Europarl dataset. The script performs the necessary steps to generate the English translation and Greeklish transliteration of these sentences. The results are then saved in a single JSON file within the same directory.
 
   To initiate the training of the ByT5 model for the mixed task, make sure that the training and evaluation data are in the directory *mixed_greeklish_training/generate_dataset/data* and then run
 
-  ```bash
+```bash
 python3 mixed_greeklish_training.ByT5_mixed
-  ```
+```
 
-
+The weights of the final model will be outputted into the *results/* folder
 
 # References
 

@@ -131,7 +131,7 @@ class MixedLanguagesEvaluator:
 
         predicted_text = [" ".join(sent) for sent in predicted_text_sliced]
 
-
+        # Compute the metrics for the greeklish text
         cer_raw = self.cer.compute(predictions=predicted_text, references=self.greek_mixed_text)
         wer_raw = self.wer.compute(predictions=predicted_text, references=self.greek_mixed_text)
         print("Metrics for the greeklish output")
@@ -139,6 +139,7 @@ class MixedLanguagesEvaluator:
               f"WER_raw: {wer_raw}")
         
 
+        # Compute the metrics for the english text
         cer_raw = self.cer.compute(predictions=predicted_english_text, references=gt_english_text)
         wer_raw = self.wer.compute(predictions=predicted_english_text, references=gt_english_text)
         print("Metrics for the english output")
@@ -162,9 +163,9 @@ if __name__ == "__main__":
 
     print("Evaluating the baseline")
 
-    baseline = DetectLanguageBaseline(words_path="mixed_languages/words.txt", model=model)
+    # baseline = DetectLanguageBaseline(words_path="mixed_languages/words.txt", model=model)
 
-    evaluator.evaluate(baseline)
+    # evaluator.evaluate(baseline)
 
 
 
