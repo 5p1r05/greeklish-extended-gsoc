@@ -1,0 +1,130 @@
+[
+    {
+        "text": "De mas les k polla. Pote akribws sto emfanizei auto to mhnyma la8ous?",
+        "time": "2006-09-06T14:58:15Z",
+        "english_indices": [],
+        "gt_indices": []
+    },
+    {
+        "text": "gia se olous. eixa ena skliro sto pc mou se 2 partitions.100gb o enas 100 kai o allos. o enas eixe idi ta xp kai kati alla porgramata. simera apofasisa na valo ston dutero ta xp alla ton proto na min ton kano format giati exo pragmata pou xriazome. tora omos mou vgazi boot screen na diale3o ena apo ta 2 xp pou exo. pos mporo na min mou to vgazi auto?",
+        "time": "2007-10-14T16:18:29Z",
+        "english_indices": [
+            54
+        ],
+        "gt_indices":[7, 11, 23, 43, 53, 54, 61]
+    },
+    {
+        "text": "prwton kalos ir8es stin insomnia k meta auta ta arxia pou simpiezei einai gia na diagraftoun meta px oti exei o kadws anakiklwsis to teporaly folders k alla den iparxei logos na anisixeis gai auta",
+        "time": "2006-09-22T19:56:26Z",
+        "english_indices": [
+            4,
+            25
+        ],
+        "gt_indices":[4, 24, 25]
+    },
+    {
+        "text": "gi'afto i lisi einai na exeis ena ghost oste na mi se noiazei an tha kaneis format i oxi... Dustixos me tis frikes pou trone adikaiologita ta windows polles fores to na kaneis format einai i mono 100% eggiimeni lisi.. format C: rules!!!",
+        "time": "2003-12-29T02:21:54Z",
+        "english_indices": [
+            7,
+            27,
+            42
+        ],
+        "gt_indices":[7, 16, 27, 33, 40, 41, 42]
+    },
+    {
+        "text": "nai dokimasa tin teleutaia 0.3.1",
+        "time": "2005-12-02T10:04:41Z",
+        "english_indices": [],
+        "gt_indices": []
+    },
+    {
+        "text": "xmm... oute autos mallon ta katafere loipon... ara pame gia router, e?",
+        "time": "2006-11-01T16:25:49Z",
+        "english_indices": [],
+        "gt_indices":[10]
+    },
+    {
+        "text": "nai to AppData einai auto akrobos pou les se sintomografia... kai gia tou logou to alithes...",
+        "time": "2015-04-15T19:47:42Z",
+        "english_indices": [],
+        "gt_indices": [2]
+    },
+    {
+        "text": "euxaristo poli gia tin apantisi.. tha to dokimaso apopse",
+        "time": "2007-06-05T17:10:02Z",
+        "english_indices": [],
+        "gt_indices":[]
+    },
+    {
+        "text": "To lilo exw. Sto lilo. conf grafw omws root=/dev/hda7",
+        "time": "2004-02-16T23:18:59Z",
+        "english_indices": [
+            1,
+            4
+        ],
+        "gt_indices":[1, 4, 5, 8]
+    },
+    {
+        "text": "exw to nec DVD RW ND-3540A",
+        "time": "2006-05-15T11:58:05Z",
+        "english_indices": [],
+        "gt_indices":[2, 3, 4, 5]
+    },
+    {
+        "text": "Na epishmanw pws den exw energopoihsei thn \"Idiwtikh xrhsh\" alla oute kai ton orisei ws koinoxrhsto stoixeio.",
+        "time": "2005-04-11T17:20:54Z",
+        "english_indices": [],
+        "gt_indices":[]
+    },
+    {
+        "text": "to exw dokimasei (msconfig k. t. l ) alla tipota. ti mia ksekina kanonika to pc kai tin alli kathisterei. alli idea? ipso33 thanks",
+        "time": "2004-07-20T14:16:25Z",
+        "english_indices": [
+            23
+        ],
+        "gt_indices":[3, 15, 22, 23]
+    },
+    {
+        "text": "kai to acquisition einai koryfaio... kai douleyei kai xoris na t agoraseis",
+        "time": "2007-09-21T14:41:49Z",
+        "english_indices": [
+            2
+        ],
+        "gt_indices":[2]
+    },
+    {
+        "text": "Episis, twra mou hr8e sto myalo kati pou eixa pa8ei paliotera k gw: Eixa corrupted ena . cpl arxeio (auta einai ta arxeia pou antistoixoun sta tools tou control panel). Kane loipon ena search sto drive twn windows gia . cpl arxeia k prospa8hse na ta anoixeis ena-ena. Isws kapoio apo auta na einai corrupt k na skasei. An ontws isxyei auto, 8a prepei na kaneis recover to arxeio apo to cd twn windows...",
+        "time": "2005-11-22T09:44:46Z",
+        "english_indices": [
+            14,
+            26,
+            28,
+            33,
+            35,
+            37,
+            54,
+            66,
+            73
+        ], 
+        "gt_indices":[14, 17, 26, 28, 29, 33, 35, 37, 40, 54, 66, 71, 73]
+    },
+    {
+        "text": "gia na min anoikso allo post thelo kai go na rotiso an iparxei kapio programa gia remote poui na mporo na kano drag n drop ena arxeio apo tin epifaneia tou remote pc stin epifaneia tou topikou pc kai na to metafero ......",
+        "time": "2006-12-19T19:49:32Z",
+        "english_indices": [
+            8,
+            16,
+            22,
+            24,
+            31
+        ],
+        "gt_indices": [5, 16, 22, 24, 31, 32, 37]
+    },
+    {
+        "text": "ego pou exo diladi oli mera anoixto to msn na fovame?",
+        "time": "2005-07-29T12:13:57Z",
+        "english_indices": [],
+        "gt_indices":[8]
+    }
+]

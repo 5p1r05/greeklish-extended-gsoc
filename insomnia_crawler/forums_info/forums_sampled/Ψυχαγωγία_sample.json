@@ -1,0 +1,147 @@
+[
+    {
+        "text": "ti mas kavlwneis mera meshmeri re",
+        "time": "2003-11-30T14:51:26Z",
+        "english_indices": [],
+        "gt_indices":[]
+    },
+    {
+        "text": "liga gia th belluci toufas! agapao th belluci, olo o kosmos prepei na agapaei th beluci me lene epote kai eimai kala!",
+        "time": "2003-05-15T20:34:53Z",
+        "english_indices": [],
+        "gt_indices":[3, 7, 15]
+    },
+    {
+        "text": "tra la la tra la la tra la ri la looooooooooooooooooooooooooooooooooo",
+        "time": "2003-08-01T23:37:20Z",
+        "english_indices": [],
+        "gt_indices": []
+    },
+    {
+        "text": "Led Zeppelin - Heartbreaker",
+        "time": "2023-01-04T13:03:57Z",
+        "english_indices": [
+            0,
+            1,
+            3
+        ],
+        "gt_indices":[0, 1, 3]
+    },
+    {
+        "text": "Patty Ryan -You're My Love, You're My Life",
+        "time": "2023-09-09T22:29:58Z",
+        "english_indices": [
+            0,
+            7
+        ],
+        "gt_indices":[0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+        "text": "Kala... pote den eixa se idiaiterh ekthmhsh thn syggekrimenh etairia. Panta mou edine thn entypwsh oti edine perissotero bash sthn emfanhsh kai sto trend para ston hxo... Bebaia den to exw psaksei kai poly (panta mou thn espagan emfanisiaka) opote kalista mporei na lew kai m@l@kies kai h ki8ara na bgazei poly kalo hxo... O filos mou xtyphse mia asprh metaxeirismenh me arketa lefta kei leei oti exei poly paxy swma(kai einai kai arketa baria) kai oti bgazei apistefto hxo. Opote mallon den paizei 8ema \"maimou\". Aftos akouei mono klassiko/power/thrash bebaia... Egw pali exw kanei ta osa sto \"tavraki\" mou gia na paizw afta pou goustarw... Gia megalo diasthma epairna 12ares xordes (gia na mhn kremane) kai kourdiza se drop C (!!!) kai oloi me ebrizan... Sta @@ moy bebaia... Twra epitelous elysa to problhma ths 7xordhs pou panta h8ela kai ths foresa tis 6 panw xordes apo ena set 7xordhs kourdismenh se drop A (!!!!!!!!)",
+        "time": "2005-01-29T17:25:57Z",
+        "english_indices": [
+            23,
+            110,
+            119,
+            153
+        ],
+        "gt_indices":[23, 89, 119, 120, 149, 153]
+    },
+    {
+        "text": "e phgaine pai3e me auta oxou me to whining... auto eleipe na ikanopoihsei oles tis pleures o Bay... den yphrxei periptwsh... pou8ena den ginetai auto... kapoioi exoun parapona kapoioi oxi... na peis toulaxiston oti h pleiopshfia elege oti einai a8lia na pw ok...",
+        "time": "2007-08-23T15:44:52Z",
+        "english_indices": [
+            8,
+            17
+        ],
+        "gt_indices":[8, 17]
+    },
+    {
+        "text": "GERM- HELLCAT ft. SHAKEWELL car",
+        "time": "2022-07-18T08:27:37Z",
+        "english_indices": [
+            1,
+            4
+        ], 
+        "gt_indices":[0, 1, 2, 3, 4]
+    },
+    {
+        "text": "To ti leei o kathenas ek twn ysterwn den exei kai tosh shmasia Toufas. Shmasia exei poia einai ta stoixeia pou parousiazei apo ta arxaia keimena (ektos ki an phge 2000 xronia pisw kai ta eide). Oso ki an exw psaksei (kakovoula polles fores) na vrw kapoio arxaio keimeno pou na anaferei afta pou les den vrhka tipota. To mono pou exw vrei einai metagenesteres apopseis melethtwn pou synhthws sthrizontai se ektimhseis. Aplws alloi einai pio timioi kai to lene kai alloi parousiazoun auta pou lene san vevaiothtes. Mono gia to symposio tou Platwna yparxoun kapioi ypenigmoi alla ki ekei yparxoun prosegiseis kai prosegiseis. Tespa to thema einai oti eimaste poly eykoloi sto na ta dexomaste ayta. Parakolouthousa prin to topic gia to Lord Of The Rings kai ton Tolkien kai diavasa polles fores gia to an eprepena peiraxtoun ta vivlia kai poso wste na gyristoun tainies kai oi purists epesan apanw ston Peter Jackson na ton fane. An auto ginetai gia ena (shmantiko) mythistorima, gia thn Istoria tou kosmou ti tha eprepe na ginetai?",
+        "time": "2003-12-15T03:01:20Z",
+        "english_indices": [
+            11,
+            27,
+            37,
+            98,
+            120,
+            123,
+            126,
+            149
+        ],
+        "gt_indices":[120, 123, 124, 125, 126, 129, 153, 154]
+    },
+    {
+        "text": "Ontws to Zoolander einai koryfaio... to xioumor tou einai apiasto. Apo tis kalyteres kwmwdies tix xronias.. To Tenenbaum den anteksa na to dw olo.",
+        "time": "2002-12-04T11:46:37Z",
+        "english_indices": [],
+        "gt_indices":[2, 17]
+    },
+    {
+        "text": "Re swatoner den leo... exeis dikio alla katse an sou elege enas kati etsi sto asxeto kai tonizo xoris na ton xereis... den tha apantages me ton analogo tropo? Min mou peis oti tha kathosoun me stavromena xeria ok? Entaxei den leo o filos mou o lefteris ekane lathos den eprepe na apantisei etsi eprepe na deixei anoterorita alla katse ligo! Etsi? den leme malakies ston kathena xoris logo!",
+        "time": "2002-07-17T00:54:00Z",
+        "english_indices": [],
+        "gt_indices":[]
+    },
+    {
+        "text": "Einai egkurotath!!! Proswpika elaba e-mail pou me enhmerwse gia to gegonos. Sygkekrimena 8a uparxoun duo ekdoseis.(Blepe Kazaa-Kazaa Gold)",
+        "time": "2004-01-23T21:00:20Z",
+        "english_indices": [
+            17
+        ],
+        "gt_indices":[4, 16, 17]
+    },
+    {
+        "text": "kaizer you are a twisted man lol meaning, apo th mia goustareis trela steven seagal kai thn allh grafeis gia koultouriarikes tianies oi sobarous ithopious. Dont get me wrong kai ego ta idia gousta exo peripou, ligo apo olla, kai to sobaro einai kalo alla kai to cheesy cool merikes fores, alla edo tha diafonisoume. H plaka einai oth hmoun etoimos na kano post gia na proteino se olous na apofygoun auth th seira san th xolera! To eida san mia fthnh prospatheia na kanoun kati san to ocean 11 se seira. Den sympathisa KANENAN xarakthra (ante mono thn gkomenitsa) oi dialogoi den mou fanhkan tipota spoudaio, pseutocool atakes, ta asteia not funny, geinkos poly floroamerikaniko attitude. Tou dino max alla 2 epeisodia, meta den to ksanatsekaro an den allakso gnomh. Pantos einai typos show pou oi tha psarosoun ta amerikanakia h tha kopei sta misa ths 1ths sezon!",
+        "time": "2006-03-25T12:11:54Z",
+        "english_indices": [
+            4,
+            7,
+            26,
+            28,
+            47,
+            48,
+            88,
+            112,
+            116,
+            131,
+            133,
+            134
+        ],
+        "gt_indices":[0, 1, 2, 3, 4, 5, 6, 7, 13, 14, 25, 26, 27, 28, 47, 48, 63, 88, 111, 112, 116, 119, 134]
+    },
+    {
+        "text": "Einai mia poly kalh seira poy dihgeitai thn istoria toy errikoy toy 5oy basilia ths agglias. Probaletai ka8hmerines stis 11:15 sto mega. Einai poly wraia. Exei deixei 4 epeisodia.",
+        "time": "2007-07-07T09:08:04Z",
+        "english_indices": [],
+        "gt_indices":[21]
+    },
+    {
+        "text": "Kai ligo pio dipla kanei ippasia -pashs fusews- h A8hnoula, me ta $$$ tou Arh... H xwra twn apolutwn anti8esewn... Oso gia anhlikous parabates na 8umisw to Angels with Dirty Faces - 1938 me 3 oscar nominations kai ton uperoxo James Cagney",
+        "time": "2007-02-11T22:39:19Z",
+        "english_indices": [
+            27,
+            29,
+            30,
+            36
+        ],
+        "gt_indices":[27, 28, 29, 30, 35, 36, 40, 41]
+    },
+    {
+        "text": "i ayumi den einai paradosiaki i tpt tetio einai jpop, tromeri se afto pou kanei... kai episis einai i pigi merikon apistefton remixes pano tis",
+        "time": "2006-03-22T21:55:24Z",
+        "english_indices": [
+            22
+        ],
+        "gt_indices":[1, 9, 22]
+    }
+]
