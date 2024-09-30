@@ -31,7 +31,7 @@
             2,
             46
         ],
-        "gt_indices":[0, 1, 2, 3, 4, 15, 25, 48, 27]
+        "gt_indices":[0, 1, 2, 3, 4, 15, 25, 26, 27, 48]
     },
     {
         "text": "An skeftoume oti i Ericsson dinei pleon se ola ta diktua sxedon tsampa ta T28 tote mallon to T39 einai pro twn pulwn. Sumfwna me tin pagia taktiki tis Ericsson ton prwto mina min perimeneis katw apo 100.000Simeiwsi: Giati ma Giati den onamasan to T68 T69 sunexizontas ta T29 KAI T39 pou bgainoun osonoupw. Tote na deite pwliseis pou tha ekanan stin Ellada.",
@@ -45,19 +45,7 @@
         "english_indices": [
             11
         ],
-        "gt_indices":[2, 11, 20, 28, 30]
-    },
-    {
-        "text": "Sony Ericsson Vivaz------------------------------------------------------------------------ Sony Ericsson Aino VIDEO : Yes, 720p@24fps, continuous autofocus, video light------------------------------------------ VGA@30fps",
-        "time": "2010-07-23T03:16:00Z",
-        "english_indices": [
-            6,
-            8,
-            10,
-            12,
-            13
-        ],
-        "gt_indices":[0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14]
+        "gt_indices":[2, 3, 7, 11, 20, 28, 30]
     },
     {
         "text": "ta parapanaw den exoyn dhnatothta apanthshs an den kanw la8os. to 1stwap ti egine pou eixe??",
@@ -107,32 +95,7 @@
             71,
             72
         ],
-        "gt_indices":[0, 1, 2, 3, 4, 11, 18, 71, 72, 73, 74]
-    },
-    {
-        "text": "na'sao kala file... allh mia erotish... ara ola ta kinhta (vasika milao gia to 6610 kai to t610)pairnoun otidipote midi tragoudi??",
-        "time": "2004-01-07T15:21:49Z",
-        "english_indices": [
-            19
-        ],
-        "gt_indices":[19]
-    },
-    {
-        "text": "Ti kinito exeis giati sto diko mou 3210 de kanei tipota!------------------Stratos KeramidasMob. +61400223310 (FREE SMS me) Fan Club of Melbourne",
-        "time": "2000-12-11T11:03:00Z",
-        "english_indices": [
-            13,
-            17
-        ],
-        "gt_indices": [13, 14, 16, 17, 18, 19]
-    },
-    {
-        "text": "Apo battery ti paizei? Anaferete montelo(Nokia, SE), xrhsh, diarkeia zwhs.",
-        "time": "2007-01-18T12:43:57Z",
-        "english_indices": [
-            1
-        ],
-        "gt_indices":[1]
+        "gt_indices":[0, 1, 2, 3, 4, 11, 18, 24, 30, 71, 72, 73, 74]
     },
     {
         "text": "an omos kanei ektropi tou arithmou tou ston OTEs tin ora pou parakoloutheitai to tilefono kai EFOSON perimenei tilefono apo ton kirio apokrymmeno tote ton tsakose! rocket science alla leme tora!",

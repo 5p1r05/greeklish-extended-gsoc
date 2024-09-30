@@ -29,7 +29,7 @@
             120,
             121
         ],
-        "gt_indices":[11, 18, 31, 53, 65, 67, 98, 107, 112, 113, 120, 121]
+        "gt_indices":[11, 18, 20, 31, 36, 53, 65, 67, 98, 107, 112, 113, 120, 121]
     },
     {
         "text": "ontws alla an sauto to game eixe asximo draw distance tote asto..... opws k gia ta filtra. pistepse me auto to gamw kanei goutsou goutsou sti koilia tou cell, g70... oute pou idrwnei...",
@@ -58,7 +58,7 @@
         "english_indices": [
             21
         ],
-        "gt_indices":[21]
+        "gt_indices":[20, 21]
     },
     {
         "text": "Tora teleytea exo kapsi merika dvd epeidh ths perissoteres fores oti tainies katebazo apto internet tha exoun problhmatakia. Pos mporo na eime sigouros ean ena arxeio exei h den exei problhmata kai pos mporo na ta diorthoso? Yparxei ena programataki pou kanei ayth thn douleia alla den ksero kata poso exei kala apotelesmata: Me to virtual dub mporeis na deis ean ena video exei problhmata? Enoo ean aniksis ena arxeio kai sou pei pos exei ena problimataki kai meta to ksanasosis kapou me direct stream copy to diorthonei to problhma? Poious allous tropous kserete?",
@@ -71,7 +71,7 @@
             84,
             85
         ], 
-        "gt_indices": [5, 55, 56, 62, 83, 84, 85]
+        "gt_indices": [5, 55, 56, 83, 84, 85]
     },
     {
         "text": "Nai alla panta simpiesmena se divx i Xvid. Koita kai ayto an sou aresi",
@@ -85,21 +85,7 @@
         "english_indices": [],
         "gt_indices": []
     },
-    {
-        "text": "Edo kai poli kairo exo provlima me ta fonts ton WIN! otan valo 4-5 programmata grafikon sto PC(corel, photoshop... ktl), molis pao na kano install new font apo to control panel mou leei oti exo polles grammatosires kai na adiaso kapoies gia na valo aftes pou thelo! EROTISI:1)Giati sta win NT4 kai sta 2000pro den eixa afto to provlima?2)Iparxei tropos na afksiso ti xoritikotita tou fakeloy fonts? Sorry gia to priksimo!!!: ))))",
-        "time": "2001-02-15T06:12:00Z",
-        "english_indices": [
-            8,
-            10,
-            24,
-            26,
-            29,
-            49,
-            66,
-            67
-        ],
-        "gt_indices":[8,10, 17, 18, 24, 25, 26, 29, 30, 49, 50, 53, 66, 67]
-    },
+
     {
         "text": "edo exei merikes eikones akoma kai ena video. looks good",
         "time": "2005-12-29T19:53:32Z",
@@ -108,7 +94,7 @@
             8,
             9
         ],
-        "gt_indices":[7, 8, 9]
+        "gt_indices":[8, 9]
     },
     {
         "text": "den einai oti den mphke ekeinh th stigmh alla olh thn hmera kai rwtaw mhpws iparxei tipota enallaktiko link .. pws kaneis etsi ! eleos!",
@@ -143,7 +129,7 @@
             29,
             30
         ],
-        "gt_indices":[4, 27, 29, 30]
+        "gt_indices":[29, 30]
     },
     {
         "text": "Exo to motherboard GA-6VXE7+ to opoio gia kakh mou tyxh einai PhoenixNet Enable opos grafei sthn proth eikona pou blepei kaneis otan anoigei to pc. Prin akoma katalabo ti akribos einai to PhoenixNet Enable h leitourgia ayth tethike ektos leitourgias apo thn Phoenix me apotelesma to mono pou apomenei einai na blepo aythn thn ahdiastikh eikona kathe fora pou anoigo to pc (anti ths klassikhs eikonas tou bios) h opoioa allazei analysh sthn othonh 2-3 fores kai exo trelathei me ta click-click pou kanei h othoni. Mhpos yparxei kanenas tropos (asfalhs, e) pou na ksiloso to rhmadi apo to pc mou kai na ginei PhoenixNet Disable? Y. G. Isos eprepe na paei sto hardware to topic, alla epeidh blepo oti mallon to thema exei software lysh to ebala sto software. [ 05-04-2002, 12:42: Το μήνυμα επεξεργάστηκε από: ggeorgee ]",
@@ -160,7 +146,7 @@
             124,
             129
         ],
-        "gt_indices": [2, 3, 11, 12, 24, 32,33, 42, 61, 67, 81, 99, 104, 105, 113, 115, 124, 129, 137]
+        "gt_indices": [2, 3, 11, 12, 24, 32, 33, 42, 61, 67, 81, 99, 104, 105, 113, 115, 124, 129, 137]
     },
     {
         "text": "kali douleia ekanes alla ebales pollous bathmous pisteuo kata tin apopsi mou.... oson afora to thema me ta item , an olon oi xaraxtires einai oi protoi tous tote tha diskoleutoun na broun ta xrimata na paroun to mount sto lvl 40. episis poli pithano na ginoun paregsigiseis tis fasis , ego olo dino kai boithao sto guild kai emena poios me boithise? auto leitourgei sosta se guild me high lvl players opou exoun idi ta g tous kai mporoun aneta na boithisoun etsi. eite an oi xaraxtires einai alt opote exoune ton 60ari na farmarei gi'autous . kai exoune idi mpei sto klima tou game. pantos poli austira tous exeis ekei mesa gia toso mikra lvl pisteuo .... )ante kali tixi sto game kai grigora sta 60!!!!!!",

@@ -57,13 +57,13 @@
         "gt_indices":[]
     },
     {
-        "text": "To lilo exw. Sto lilo. conf grafw omws root=/dev/hda7",
+        "text": "To lilo exw. Sto lilo.conf grafw omws root=/dev/hda7",
         "time": "2004-02-16T23:18:59Z",
         "english_indices": [
             1,
             4
         ],
-        "gt_indices":[1, 4, 5, 8]
+        "gt_indices":[1, 4, 5, 7]
     },
     {
         "text": "exw to nec DVD RW ND-3540A",
@@ -94,7 +94,7 @@
         "gt_indices":[2]
     },
     {
-        "text": "Episis, twra mou hr8e sto myalo kati pou eixa pa8ei paliotera k gw: Eixa corrupted ena . cpl arxeio (auta einai ta arxeia pou antistoixoun sta tools tou control panel). Kane loipon ena search sto drive twn windows gia . cpl arxeia k prospa8hse na ta anoixeis ena-ena. Isws kapoio apo auta na einai corrupt k na skasei. An ontws isxyei auto, 8a prepei na kaneis recover to arxeio apo to cd twn windows...",
+        "text": "Episis, twra mou hr8e sto myalo kati pou eixa pa8ei paliotera k gw: Eixa corrupted ena .cpl arxeio (auta einai ta arxeia pou antistoixoun sta tools tou control panel). Kane loipon ena search sto drive twn windows gia . cpl arxeia k prospa8hse na ta anoixeis ena-ena. Isws kapoio apo auta na einai corrupt k na skasei. An ontws isxyei auto, 8a prepei na kaneis recover to arxeio apo to cd twn windows...",
         "time": "2005-11-22T09:44:46Z",
         "english_indices": [
             14,
@@ -107,7 +107,21 @@
             66,
             73
         ], 
-        "gt_indices":[14, 17, 26, 28, 29, 33, 35, 37, 40, 54, 66, 71, 73]
+        "gt_indices": [
+            14,
+            16,
+            25,
+            27,
+            28,
+            32,
+            34,
+            36,
+            39,
+            53,
+            65,
+            70,
+            72
+        ]
     },
     {
         "text": "gia na min anoikso allo post thelo kai go na rotiso an iparxei kapio programa gia remote poui na mporo na kano drag n drop ena arxeio apo tin epifaneia tou remote pc stin epifaneia tou topikou pc kai na to metafero ......",
@@ -119,7 +133,7 @@
             24,
             31
         ],
-        "gt_indices": [5, 16, 22, 24, 31, 32, 37]
+        "gt_indices": [5, 16, 22, 23, 24, 31, 32, 37]
     },
     {
         "text": "ego pou exo diladi oli mera anoixto to msn na fovame?",

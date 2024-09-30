@@ -12,12 +12,6 @@
         "gt_indices":[3, 7, 15]
     },
     {
-        "text": "tra la la tra la la tra la ri la looooooooooooooooooooooooooooooooooo",
-        "time": "2003-08-01T23:37:20Z",
-        "english_indices": [],
-        "gt_indices": []
-    },
-    {
         "text": "Led Zeppelin - Heartbreaker",
         "time": "2023-01-04T13:03:57Z",
         "english_indices": [
@@ -37,17 +31,6 @@
         "gt_indices":[0, 1, 2, 3, 4, 5, 6, 7]
     },
     {
-        "text": "Kala... pote den eixa se idiaiterh ekthmhsh thn syggekrimenh etairia. Panta mou edine thn entypwsh oti edine perissotero bash sthn emfanhsh kai sto trend para ston hxo... Bebaia den to exw psaksei kai poly (panta mou thn espagan emfanisiaka) opote kalista mporei na lew kai m@l@kies kai h ki8ara na bgazei poly kalo hxo... O filos mou xtyphse mia asprh metaxeirismenh me arketa lefta kei leei oti exei poly paxy swma(kai einai kai arketa baria) kai oti bgazei apistefto hxo. Opote mallon den paizei 8ema \"maimou\". Aftos akouei mono klassiko/power/thrash bebaia... Egw pali exw kanei ta osa sto \"tavraki\" mou gia na paizw afta pou goustarw... Gia megalo diasthma epairna 12ares xordes (gia na mhn kremane) kai kourdiza se drop C (!!!) kai oloi me ebrizan... Sta @@ moy bebaia... Twra epitelous elysa to problhma ths 7xordhs pou panta h8ela kai ths foresa tis 6 panw xordes apo ena set 7xordhs kourdismenh se drop A (!!!!!!!!)",
-        "time": "2005-01-29T17:25:57Z",
-        "english_indices": [
-            23,
-            110,
-            119,
-            153
-        ],
-        "gt_indices":[23, 89, 119, 120, 149, 153]
-    },
-    {
         "text": "e phgaine pai3e me auta oxou me to whining... auto eleipe na ikanopoihsei oles tis pleures o Bay... den yphrxei periptwsh... pou8ena den ginetai auto... kapoioi exoun parapona kapoioi oxi... na peis toulaxiston oti h pleiopshfia elege oti einai a8lia na pw ok...",
         "time": "2007-08-23T15:44:52Z",
         "english_indices": [
@@ -55,15 +38,6 @@
             17
         ],
         "gt_indices":[8, 17]
-    },
-    {
-        "text": "GERM- HELLCAT ft. SHAKEWELL car",
-        "time": "2022-07-18T08:27:37Z",
-        "english_indices": [
-            1,
-            4
-        ], 
-        "gt_indices":[0, 1, 2, 3, 4]
     },
     {
         "text": "To ti leei o kathenas ek twn ysterwn den exei kai tosh shmasia Toufas. Shmasia exei poia einai ta stoixeia pou parousiazei apo ta arxaia keimena (ektos ki an phge 2000 xronia pisw kai ta eide). Oso ki an exw psaksei (kakovoula polles fores) na vrw kapoio arxaio keimeno pou na anaferei afta pou les den vrhka tipota. To mono pou exw vrei einai metagenesteres apopseis melethtwn pou synhthws sthrizontai se ektimhseis. Aplws alloi einai pio timioi kai to lene kai alloi parousiazoun auta pou lene san vevaiothtes. Mono gia to symposio tou Platwna yparxoun kapioi ypenigmoi alla ki ekei yparxoun prosegiseis kai prosegiseis. Tespa to thema einai oti eimaste poly eykoloi sto na ta dexomaste ayta. Parakolouthousa prin to topic gia to Lord Of The Rings kai ton Tolkien kai diavasa polles fores gia to an eprepena peiraxtoun ta vivlia kai poso wste na gyristoun tainies kai oi purists epesan apanw ston Peter Jackson na ton fane. An auto ginetai gia ena (shmantiko) mythistorima, gia thn Istoria tou kosmou ti tha eprepe na ginetai?",
@@ -78,7 +52,7 @@
             126,
             149
         ],
-        "gt_indices":[120, 123, 124, 125, 126, 129, 153, 154]
+        "gt_indices":[120, 123, 124, 125, 126, 129, 149, 153, 154]
     },
     {
         "text": "Ontws to Zoolander einai koryfaio... to xioumor tou einai apiasto. Apo tis kalyteres kwmwdies tix xronias.. To Tenenbaum den anteksa na to dw olo.",

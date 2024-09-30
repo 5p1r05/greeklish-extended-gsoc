@@ -18,7 +18,7 @@
             115,
             119
         ],
-        "gt_indices":[7, 21, 22, 43, 44, 50, 65, 96, 102, 111, 115, 119]
+        "gt_indices":[7, 21, 22, 43, 44, 50, 65, 78, 95, 96, 102, 111, 115, 119]
     },
     {
         "text": "an kai ta 2pc exoun ip tis morfis 192.168.1. x meta prepei na ine sto idio workgroup tha prepei na min se kovei kapoio firewall. energopoiise guest account.",
@@ -73,7 +73,7 @@
             114,
             127
         ],
-        "gt_indices":[9, 16, 17, 22, 29, 43, 52, 62, 63, 72, 80, 83, 93, 94, 100, 104, 107, 113, 114, 126, 127, 139]
+        "gt_indices":[9, 12, 16, 17, 22, 29, 40, 43, 52, 62, 63, 72, 80, 83, 93, 94, 100, 104, 107, 113, 114, 126, 127, 139]
     },
     {
         "text": "Geia xara exo psaksei ena soro selides sto internet den vrika tipota iparxei kanena elliniko katastima oxi aparaitita meso internet an kserei kaneis dieuthinsi i tilefono na mou dosei gia na agoraso proionta tis mclaren? kapoios official antiprosopos eidon formula1 gia paradeigma den iparxei? endiaferomai gia mia mplouza tin opoia parepimptontos oute se ksena site petixa pouthena, thelo auti tin portokali-mauri pou forane oi mixanikoi tis mclaren euxaristo",
@@ -81,7 +81,7 @@
         "english_indices": [
             36
         ],
-        "gt_indices":[34, 36, 54, 66]
+        "gt_indices":[8, 34, 36, 39, 54, 66]
     },
     {
         "text": "exo giftcard kana xrono kai an to kanis se sindiasmo me paypal einai oti kalytero iparxei apo apospi asfaleias . Ektos aytoy einai visa opos eipe parapano o filos",
@@ -128,32 +128,7 @@
         "gt_indices":[2, 6, 8, 10]
     },
     {
-        "text": "Geia xara se olous kai oles......... Na kanw mia erwthsh re magkes shmera to prwi phra thn texnikh yposthri3h ths Forthnet giati parousiaza (ws sunhthws) ena problem me to jetspeed 520 etuxe mia fora na to alla3w 3 fores alla to 3o eixe to e3hs pleonekthma..... Kai na epefte to reuma sthn Kalamata (spudazw) otan h DSL epanerxotan kai anaban ta labakia ta stoixeia htan pali ok! kai den xreiazotan katholou na paw sthn classic ip gia na ksanagrafw tis plhrofories... Omws twra teleutaia me tis broxes pu exei pesei kamia 10 fores to maximum dustuxws enw exw kanei save (admin&commit-->reboot-->commit)ta stoixeia xanontai. Mou esteilan e-mail mallon me to teleutaio update gia to jetspeed 520 alla tha ithela na rwthsw gnwrizei kaneis sas kapoio allo site me updates otidhpote eidous EKTOS apo ths INTRACOM sto opoio kai einai tou 2004 ta updates.... P. S. Sorry gia to mAkruuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu POST! :: otan kanoume update mesa apo thn ip tou sygkekrimenou modem prepei na kanw reboot dhladh na sbhsoun kai na 3anaepanerthoun ta labakai h..... apla commit san save! Yparxei diafora gi'auto rwtaw///",
-        "time": "2005-11-25T19:26:18Z",
-        "english_indices": [
-            26,
-            74,
-            94,
-            99,
-            110,
-            127,
-            141,
-            144,
-            152,
-            163,
-            174,
-            176
-        ],
-        "gt_indices":[20, 26, 29, 56, 74, 75, 94, 99, 100, 105, 110, 113, 125, 127, 133, 141, 144, 148, 152, 156, 159, 163, 174, 176]
-    },
-    {
-        "text": "re paidia nomizw pws o adams kanei la8os ! edw : grafei 256/128 ? 10,90 + ? 12,90 (arys ote) --> 23,8*1,19 --->28,322 e telikh ME fpa Kanw la8os ? Na rwtisw kati kai egw twra , an kapoios kanei auto me thn vivodi (den exei paroxh amesh me vivodi kai 8elei mesw ote arys) prepei na kanei sundesh me ote h 8a analabei h vivodi thn olh fash ?",
-        "time": "2005-06-29T19:44:30Z",
-        "english_indices": [],
-        "gt_indices":[5, 49, 65]
-    },
-    {
-        "text": ": twisted: ego eimai dinosayros . to idos mou legetai xeiropedosayros o kommounistis",
+        "text": ": twisted: ego eimai dinosayros. to idos mou legetai xeiropedosayros o kommounistis",
         "time": "2004-05-11T14:38:34Z",
         "english_indices": [
             1

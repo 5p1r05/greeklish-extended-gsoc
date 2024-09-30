@@ -26,7 +26,7 @@
             3,
             4
         ],
-        "gt_indices":[2, 3, 4, 5]
+        "gt_indices":[2, 3, 4, 5, 7]
     },
     {
         "text": "ok to vrika monos mou.... apla xrisimopoiisa simatoforeis",
@@ -44,24 +44,12 @@
         "gt_indices":[14, 17, 25, 44]
     },
     {
-        "text": "sou leo oti den ginete auto pou thes, para mono iparxonta protocola diamesou tcp/ip . ti diaolo blakes einai oloi oi alloi kai ftiaxnoun syn flooders , spoofers ktl se c/c++ i delphi/kylix . i java den xreisimopoiei dll (ektos ean leo ean ftiaxeis programma mono gia windows, opou ekei xreisimopoiei kapoies -oxi oles- entoles systimatos, gia na ftiaxei tin forma, ta koumpia ktl oste na min xreisimopoieis kapoin browser me java)episis fantasou oti gia na ftiaxeis kapoion spoofer se c/c++ se unix einai kati eukolo, se windows den tha elega.... fantasou tora ti ginete ean thes na to ftiaxeis se java, tha sou bgei i xoli....------------------EDgSTr5SmDY=",
-        "time": "2001-05-08T19:29:00Z",
-        "english_indices": [
-            35,
-            47,
-            69,
-            87,
-            101
-        ], 
-        "gt_indices":[13, 24, 25, 27, 30, 32, 35, 38, 47, 69, 78, 80, 82, 87, 101]
-    },
-    {
-        "text": "Mia xara ide einai ... eida demos einai polu kalh fash !",
+        "text": "Mia xara ide einai... eida demos einai polu kalh fash !",
         "time": "2007-03-10T17:09:28Z",
         "english_indices": [
-            6
+            5
         ],
-        "gt_indices":[6]
+        "gt_indices":[5]
     },
     {
         "text": "twra proseksa oti to class einai grammeno gia WinCE eVC , alla fantazomai oti me elaxistes allages tha treksei sto MFC . Ennoeitai einai free o kwdikas.",
@@ -94,14 +82,14 @@
         "gt_indices":[]
     },
     {
-        "text": "basika 0lew me to pu mpenei se mia selida na petaei to pop-p, xwris kapoios na prepei na pathse to click me, alla apla 0a balw to scriptaki gia automatic fwd, opote kai 0a anoigei to pop-up (pisteuw, den to ekana akomi...) thanks kai gia to url, to javascript. com den leei...",
+        "text": "basika 0lew me to pu mpenei se mia selida na petaei to pop-p, xwris kapoios na prepei na pathse to click me, alla apla 0a balw to scriptaki gia automatic fwd, opote kai 0a anoigei to pop-up (pisteuw, den to ekana akomi...) thanks kai gia to url, to javascript.com den leei...",
         "time": "2002-05-23T01:48:00Z",
         "english_indices": [
             20,
             29,
             42
         ],
-        "gt_indices":[12, 20, 29, 30, 36, 46, 48, 49]
+        "gt_indices":[12, 20, 29, 30, 36, 42, 46, 48]
     },
     {
         "text": "prepei prota na kaneis deksi klik sta kelia kai na epilekseis sth morfopoihsh keimeno exw kanei ena paromoio programataki se access opoios to thelei einai edw dexomaste kai protaseis gia veltiwseis",
