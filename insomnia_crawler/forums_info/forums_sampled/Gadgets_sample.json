@@ -95,7 +95,21 @@
             71,
             72
         ],
-        "gt_indices":[0, 1, 2, 3, 4, 11, 18, 24, 30, 71, 72, 73, 74]
+        "gt_indices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            11,
+            18,
+            24,
+            30,
+            71,
+            72,
+            73,
+            74
+        ]
     },
     {
         "text": "an omos kanei ektropi tou arithmou tou ston OTEs tin ora pou parakoloutheitai to tilefono kai EFOSON perimenei tilefono apo ton kirio apokrymmeno tote ton tsakose! rocket science alla leme tora!",

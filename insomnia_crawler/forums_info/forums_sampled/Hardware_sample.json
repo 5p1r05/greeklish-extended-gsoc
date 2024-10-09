@@ -26,7 +26,12 @@
         "english_indices": [
             28
         ],
-        "gt_indices": [15, 21, 23, 28]
+        "gt_indices": [
+            15,
+            21,
+            23,
+            28
+        ]
     },
     {
         "text": "kalimera lipon tha kaneis backup opos soy eipan ta paidia me to norton gost h tha graceis oti simantiko exeis se cd prin kaneis otidipote prota tha alaxeis to trofodotiko exapantos bale ena 400 tha katebaseis apo to site tis western digital to life gard einai ena programataki gia elenxo toy hard meta repair xana ta windows kai meta scan disk sxolastiko ston skliro kai h esxati lisi format kai kainoyrgia egkatastasi toy leitoyrgikoy",
@@ -89,7 +94,7 @@
             66,
             70
         ], 
-        "gt_indices": [5, 13, 19, 31, 36, 38, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 51, 52, 53, 57, 66, 70]
+        "gt_indices": [5, 13, 18, 19, 31, 36, 38, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 51, 52, 53, 57, 66, 70]
 
     },
     {
