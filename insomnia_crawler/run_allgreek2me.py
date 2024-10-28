@@ -3,11 +3,11 @@ import os
 import json
 
 
-forums = os.listdir("forums_info/forums_sampled2")
+forums = os.listdir("forums_info/forums_sampled_combined")
 g2g = greeklish.GreeklishConverter()
 
 for forum in forums:
-    with open(f"forums_info/forums_sampled2/{forum}") as f:
+    with open(f"forums_info/forums_sampled_combined/{forum}") as f:
         forum_data = json.load(f)
 
     transliterated_data = []
@@ -27,7 +27,7 @@ for forum in forums:
         })
         print(predicted_text)
 
-    folder_path = "LLMs/LLM_data/allgreek2me_data2/"
+    folder_path = "LLMs/LLM_data/allgreek2me_data_combined/"
     # Make the dir {model}_data if it doesn't exist
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
